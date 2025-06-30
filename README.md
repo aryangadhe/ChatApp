@@ -103,17 +103,15 @@ VITE_BACKEND_URL=https://your-backend-url.com
       node server.js
 
 🚀 Deployment
+
 Frontend on Vercel
-Push the client/ folder to a GitHub repo
-
-Link it to Vercel
-
-Set VITE_BACKEND_URL in Vercel Project Settings → Environment Variables
+. Push the client/ folder to a GitHub repo
+. Link it to Vercel
+. Set VITE_BACKEND_URL in Vercel Project Settings → Environment Variables
 
 Backend (Options)
-Host with Render, Railway, or Vercel Serverless API
-
-Export the server.js properly for serverless if using Vercel
+.Host with Render, Railway, or Vercel Serverless API
+.Export the server.js properly for serverless if using Vercel
 
 📷 Preview
 Login	Chat	Profile
