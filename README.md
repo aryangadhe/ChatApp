@@ -14,7 +14,7 @@ Deployed on **Vercel** (Frontend) and **Render** or **Vercel Serverless** (Backe
 - 🖼️ Send text and image messages
 - 🟢 Online user detection
 - 🛡️ Protected routes with JWT
-- 🌐 Deployed with Vercel (Frontend)
+- 🌐 Deployed with Vercel 
 
 ---
 
